@@ -19,3 +19,5 @@ Suggests:
     testthat
 Imports: 
     forcats
+URL: https://github.com/henrywangnl/foofactors
+BugReports: https://github.com/henrywangnl/foofactors/issues
